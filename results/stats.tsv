@@ -1,0 +1,2 @@
+comparison	n_control	n_c9als	fold_change	p_value	test
+C9-ALS vs control	8	8	0.4384	0.0001554	two-sided Mann-Whitney U (exact)

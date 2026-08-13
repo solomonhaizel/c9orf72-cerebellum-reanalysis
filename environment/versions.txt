@@ -1,0 +1,4 @@
+Statistics (analysis/c9_stats.py): Python 3.10.12, NumPy 2.2.6, SciPy 1.15.3
+  -> pip install -r requirements.txt
+Figure (analysis/plot_c9_panel.R): R >= 4.2 with ggplot2
+Input provenance (not run here): STAR 2.7.11b, GENCODE v45, GRCh38, DESeq2 — see GSE67196.

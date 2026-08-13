@@ -1,0 +1,15 @@
+# raw reads live in SRA/GEO, never here
+*.fastq*
+*.bam
+*.sam
+# generated figure artifacts — regenerate with plot_c9_panel.R
+Fig1b_C9ORF72.pdf
+Fig1b_C9ORF72.png
+Fig1b_C9ORF72.svg
+Rplots.pdf
+# OS / R / Python
+.DS_Store
+.Rhistory
+.RData
+__pycache__/
+*.pyc
